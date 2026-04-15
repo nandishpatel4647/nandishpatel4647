@@ -24,10 +24,10 @@ class NandishPatel:
     def __init__(self):
         self.name        = "Nandish Patel"
         self.role        = "AI Engineer & Data Scientist"
-        self.university  = "LJIET — B.Tech AIML"
+        self.university  = "LJ University — B.Tech in AIML"
         self.startup     = "TeamUp 🚀 (LJ Startup Week Finalist)"
         self.pronouns    = "he/him"
-        self.location    = "Ahmedabad, India 🇮🇳"
+        self.location    = "Ahmedabad, India "
     
     def current_focus(self):
         return [
@@ -166,7 +166,7 @@ me = NandishPatel()
 📌 Live at letsteamup.me  
 🏷️ `Startup` `Web Dev` `Product`
 
-[![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](https://letsteamup.me)
+[![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](https://teamup.net.in/)
 
 </td>
 </tr>
@@ -196,15 +196,13 @@ me = NandishPatel()
 
 </div>
 
-> ⚠️ *To activate the snake, set up the GitHub Actions workflow below*
-
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=nandishpatel4647&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=nandishpatel4647&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

@@ -96,7 +96,7 @@ me = NandishPatel()
 <td width="50%">
 
 ### 🅰 Smart Parking System
-> *LJ University | Sem 3 | Python + ML*
+> *Python + ML*
 
 🔧 Automated parking allocation using AI  
 📌 Real-world computer vision use case  
@@ -108,7 +108,7 @@ me = NandishPatel()
 <td width="50%">
 
 ### 💸 Smart Expense Tracker
-> *LJ University | Sem 3 | Full Stack + ML*
+> *Full Stack + ML*
 
 🔧 Tracks, categorizes & predicts expenses  
 📌 Python + HTML/CSS + AI logic  
@@ -122,7 +122,7 @@ me = NandishPatel()
 <td width="50%">
 
 ### 🌆 Urban Energy Dashboard
-> *Power BI | Final Exam Project*
+> *Power BI | Attractive Dashboards*
 
 🔧 Visualized city-wide energy patterns  
 📌 End-to-end BI storytelling  
@@ -134,7 +134,7 @@ me = NandishPatel()
 <td width="50%">
 
 ### 💰 Loan Risk Analysis
-> *Math & Stats | Final Project*
+> *Math & Stats | Data Analysis*
 
 🔧 Predictive risk scoring model  
 📌 Full EDA + statistical modeling  
@@ -160,10 +160,10 @@ me = NandishPatel()
 <td width="50%">
 
 ### 👥 TeamUp — Startup
-> *LJ Startup Week Finalist*
+> *LJ Startup Week Winners*
 
 🔧 Team collaboration platform  
-📌 Live at letsteamup.me  
+📌 Live at teamup.net.in  
 🏷️ `Startup` `Web Dev` `Product`
 
 [![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](https://teamup.net.in/)
@@ -175,34 +175,11 @@ me = NandishPatel()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nandishpatel4647&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandishpatel4647&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandishpatel4647&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF5733&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
 
 ![Snake animation](https://github.com/nandishpatel4647/nandishpatel4647/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=nandishpatel4647&theme=tokyonight&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

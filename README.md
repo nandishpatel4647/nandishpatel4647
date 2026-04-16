@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandish-patel-aiml)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=22)](https://www.linkedin.com/in/nandish-patel-aiml)
 [![My Portfolio](https://img.shields.io/badge/My_Portfolio-FFC107?style=for-the-badge&logo=google-chrome&logoColor=black)](https://nandishpatel.lovable.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandishpatel4647)
 [![Portfolio](https://img.shields.io/badge/TeamUp-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](https://teamup.net.in)

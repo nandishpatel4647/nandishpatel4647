@@ -92,11 +92,13 @@ me = NandishPatel()
 ## 🚀 Featured Projects
 
 <div align="center">
+
 <table>
 <tr>
-<td width="50%">
 
-### 💰 Sentinel AI
+<td width="50%" valign="top">
+
+### 🛡️ Sentinel AI
 > *Cyber Security | AI Powered*
 
 🔧 AI-powered threat analysis engine  
@@ -107,11 +109,10 @@ me = NandishPatel()
 [![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](https://sentinel-secure-ai.vercel.app)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
 
-### 🅰 Smart Parking System
+<td width="50%" valign="top">
+
+### 🅿️ Smart Parking System
 > *Python + ML*
 
 🔧 Automated parking allocation using AI  
@@ -121,9 +122,13 @@ me = NandishPatel()
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandishpatel4647/Smart_Parking_Management_Syastem)
 [![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](https://smart-parking.streamlit.app)
 
-
 </td>
-<td width="50%">
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 💸 Smart Expense Tracker
 > *Full Stack + ML*
@@ -135,13 +140,11 @@ me = NandishPatel()
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandishpatel4647/Smart_Expense_Tracker_Application)
 [![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](https://expense-tracker-smart.streamlit.app)
 
-
 </td>
-</tr>
-<tr>
-<td width="50%">
 
-### 🌆 Repsense AI
+<td width="50%" valign="top">
+
+### 🏋️ Repsense AI
 > *Machine Learning | Python*
 
 🔧 Intelligent Exercise Recognition & Form Analysis System  
@@ -152,8 +155,12 @@ me = NandishPatel()
 [![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](https://repsenseai.streamlit.app)
 
 </td>
-<td width="50%">
 
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🚌 Smart Bus System
 > *LJ Hackovative 2025 — 🥈 Runners Up*
@@ -164,9 +171,9 @@ me = NandishPatel()
 
 [![Repo](https://img.shields.io/badge/Private_Repo-555555?style=for-the-badge&logo=github&logoColor=white)](#)
 
-
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 👥 TeamUp — Startup
 > *LJ Startup Week Winners*
@@ -178,8 +185,11 @@ me = NandishPatel()
 [![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](https://teamup.net.in/)
 
 </td>
+
 </tr>
+
 </table>
+
 </div>
 
 ---

@@ -156,6 +156,8 @@ me = NandishPatel()
 🏷️ `TypeScript` `ML` `API` `Hackathon`
 
 [![Repo](https://img.shields.io/badge/Private_Repo-555555?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](https://teamup.net.in/)
+
 
 </td>
 <td width="50%">

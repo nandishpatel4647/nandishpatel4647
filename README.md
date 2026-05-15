@@ -96,6 +96,21 @@ me = NandishPatel()
 <tr>
 <td width="50%">
 
+### 💰 Sentinel AI
+> *Cyber Security | AI Powered*
+
+🔧 AI-powered threat analysis engine  
+📌 Identifies phishing, malware, and social engineering attacks  
+🏷️ `React Js` `Node Js` `Vite`
+
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandishpatel4647/Sentinel_AI)
+[![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](https://sentinel-secure-ai.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### 🅰 Smart Parking System
 > *Python + ML*
 
@@ -104,6 +119,8 @@ me = NandishPatel()
 🏷️ `Python` `Machine Learning` `AI`
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandishpatel4647/Smart_Parking_Management_Syastem)
+[![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](https://smart-parking.streamlit.app)
+
 
 </td>
 <td width="50%">
@@ -116,37 +133,27 @@ me = NandishPatel()
 🏷️ `Python` `ML` `AI` `CSS` `HTML`
 
 [![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandishpatel4647/Smart_Expense_Tracker_Application)
+[![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](https://expense-tracker-smart.streamlit.app)
+
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🌆 Urban Energy Dashboard
-> *Power BI | Attractive Dashboards*
+### 🌆 Repsense AI
+> *Machine Learning | Python*
 
-🔧 Visualized city-wide energy patterns  
-📌 End-to-end BI storytelling  
-🏷️ `Power BI` `Dashboard` `Analytics`
+🔧 Intelligent Exercise Recognition & Form Analysis System  
+📌 Web cam with Machine Learning  
+🏷️ `Machine Learning` `OpenCV` `Python`
 
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandishpatel4647/Urban_Energy_Consumption_for_Smarter_Cities)
+[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandishpatel4647/Repsense_AI)
+[![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](https://repsenseai.streamlit.app)
 
 </td>
 <td width="50%">
 
-### 💰 Loan Risk Analysis
-> *Math & Stats | Data Analysis*
-
-🔧 Predictive risk scoring model  
-📌 Full EDA + statistical modeling  
-🏷️ `Python` `Statistics` `NumPy` `Pandas`
-
-[![Repo](https://img.shields.io/badge/View_Repo-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nandishpatel4647/Loan_Risk_Analysis_Report)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
 
 ### 🚌 Smart Bus System
 > *LJ Hackovative 2025 — 🥈 Runners Up*
@@ -156,7 +163,6 @@ me = NandishPatel()
 🏷️ `TypeScript` `ML` `API` `Hackathon`
 
 [![Repo](https://img.shields.io/badge/Private_Repo-555555?style=for-the-badge&logo=github&logoColor=white)](#)
-[![Live](https://img.shields.io/badge/Visit_Live-FF5733?style=for-the-badge&logo=rocket&logoColor=white)](https://teamup.net.in/)
 
 
 </td>
